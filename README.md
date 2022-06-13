@@ -25,3 +25,9 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 [Terry Riley's "In C"](https://teropa.info/blog/2017/01/23/terry-rileys-in-c.html)
 [How Generative Music Works](https://teropa.info/loop/#/title)
+
+---
+
+# Code
+
+[MagentaJS – generative javascript lib](https://magenta.tensorflow.org/js-announce)
